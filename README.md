@@ -1,2 +1,2 @@
 # fmd_pkm
-Fundamentals of machine design / podstawy konstrukcji maszyn
+Fundamentals of machine design / Podstawy konstrukcji maszyn
